@@ -6,9 +6,6 @@ Welcome to my GitHub! I'm a Junior Back-End Developer with a strong background i
 Built a full-stack NASA mission control simulation using Node.js, Express, and MongoDB.
 Integrated RESTful APIs, GraphQL, and real-time updates with Socket.io.
 Deployed using Docker and managed with PM2 and AWS EC2.
-🎮 Turn-Based Strategy Game
-Developed using C++ and showcased advanced object-oriented programming principles.
-Designed core mechanics like turn-based combat, resource management, and AI-driven decision-making.
 🛠️ Technologies I Use
 Backend Development: Node.js, Express.js, MongoDB, REST APIs, GraphQL
 Frontend Development: ReactJS
