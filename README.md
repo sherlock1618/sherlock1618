@@ -1,8 +1,5 @@
-👋 Hi, I'm Fazliddin Akhmadjonov
-Welcome to my GitHub! I'm a Junior Back-End Developer with a strong background in game design and a passion for web development. After spending over 6 months in the game development industry, I transitioned to back-end development, focusing on building scalable, efficient, and secure web applications.
-
 🚀 Projects
-🌌 NASA-SpaceX Mission Control
+🌌 NASA Mission Control
 Built a full-stack NASA mission control simulation using Node.js, Express, and MongoDB.
 Integrated RESTful APIs, GraphQL, and real-time updates with Socket.io.
 Deployed using Docker and managed with PM2 and AWS EC2.
